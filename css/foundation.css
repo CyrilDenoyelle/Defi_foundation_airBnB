@@ -1,4 +1,108 @@
 .top-bar-right a{
-  color: white;
+  color: black;
   text-transform: none;
+  margin-top: 20px;
+  background-color: transparent;
+}
+
+.top-bar ul{
+  background-color: transparent;
+}
+
+.top-bar {
+  background-color: transparent;
+}
+
+#carousel {
+  padding-top: -150px;
+}
+
+.menu-text{
+  padding: 0;
+}
+
+h4{
+  float: left;
+}
+
+.sticker-container{
+  margin-top: 50px;
+}
+
+
+h5{
+  padding-left: 40px;
+}
+ul{
+  text-decoration: none;
+  color: grey;
+  list-style-type:none;
+}
+
+
+.colonne1{
+padding-left: 300px;
+padding-right: 570px;
+margin-top: 100px;
+}
+
+.colonne2{
+  padding-left: 300px;
+
+  margin-top: -250px;
+}
+
+.colonne3{
+  padding-left: 600px;
+  margin-top: -270px;
+}
+
+
+/* footer */
+
+footer{
+
+  color: grey;
+  text-decoration: none;
+}
+
+.conditions{
+text-align: right;
+text-decoration: none;
+margin-top: -20px;
+padding-right: 400px;
+
+}
+.plan{
+  text-align: right;
+  text-decoration: none;
+  margin-top: -20px;
+  padding-right: 275px;
+}
+
+a:hover{
+
+text-decoration: underline;
+}
+
+.bnb{
+  padding-left: 100px;
+}
+
+footer img{
+  height: 30px;
+  width: 30px;
+  float: right;
+  margin-top: -20px;
+}
+
+.facebook{
+  padding-right: 50px;
+}
+.twitter{
+  padding-right: 20px;
+}
+
+.insta{
+  padding-right: 10px
 }
